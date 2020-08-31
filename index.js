@@ -13,5 +13,5 @@ function changeContent(){
     document.getElementById('pendidikanicon').src = "icon/iconpendidikan.png";
     //content-moto
     document.getElementById('contentmotivasi').innerHTML="Mlaku maju mandeng ngarep";
-    document.getElementById('motoicon').src = 'png/iconmotivasion.png';
+    document.getElementById('motoicon').src = 'icon/iconmotivasion.png';
 }
