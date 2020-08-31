@@ -1,0 +1,99 @@
+body {
+    background-image: url('background.jpg');
+    position: absolute;
+}
+.button-profile{
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    opacity: 0;
+    top: 340px;
+    left: 775px;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+.fotoprofil{
+    margin: 0;
+    position: absolute;
+    top: 350px;
+    left: 750px;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+
+}
+.nama{
+    margin: 0;
+    position: absolute;
+    top: 250px;
+    left: 500px;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+.lahir{
+    margin: 0;
+    position: absolute;
+    top: 350px;
+    left: 500px;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+.pendidikan{
+    margin: 0;
+    position: absolute;
+    top: 450px;
+    left: 500px;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+.moto{
+    margin: 0;
+    position: absolute;
+    top: 425px;
+    left: 1025px;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+.alamat{
+    margin: 0;
+    position: absolute;
+    top: 275px;
+    left: 1025px;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)   
+}
+.content-nama{
+    color:white;
+    text-align: left;
+    position: relative;
+    top: 225px;
+    left: 550px;
+}
+.content-alamat{
+    color:white;
+    text-align: right;
+    position: absolute;
+    top: 225px;
+    left: 925px;
+}
+.content-pendidikan{
+    color:white;
+    text-align: left;
+    position: absolute;
+    position: absolute;
+    top: 400px;
+    left: 550px;
+}
+.content-lahir{
+    color:white;
+    text-align: left;
+    position: absolute;
+    top: 300px;
+    left: 550px;
+}
+.content-motivasi{
+    color:white;
+    text-align: right;
+    position: absolute;
+    top: 375px;
+    left: 925px;
+}
